@@ -6,6 +6,8 @@ My testing tasks (Feb 2015)
 Change a phone number to an international format.
 Example: number like (012) 535 14 71 should be changed into +38012 535 14 71.
 
+[Here is the same code in codesculptor. (Note: use Chrome for this)](http://www.codeskulptor.org/#user39_TZ3F0nQpy4_0.py)
+
 
 ####Task #2:
 
