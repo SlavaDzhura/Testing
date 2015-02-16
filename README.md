@@ -20,3 +20,5 @@ Write a function that returns the element that has the value closest to the mean
 ####Task #4:
 
 Given two Stack objects s1 and s2. Using them create an object Queue q1. 
+
+Here my solutions in Python.
