@@ -6,7 +6,7 @@ My testing tasks (Feb 2015)
 Change a phone number to an international format.
 Example: number like (012) 535 14 71 should be changed into +38012 535 14 71.
 
-[Here is the same code in codesculptor. (Note: use Chrome for this)](http://www.codeskulptor.org/#user39_TZ3F0nQpy4_0.py)
+[Here is the Task#1 code in codesculptor. (Note: use Chrome for the link)](http://www.codeskulptor.org/#user39_TZ3F0nQpy4_0.py)
 
 
 ####Task #2:
@@ -18,6 +18,7 @@ Write the function that recursively finds the minimal element of an array.
 
 Write the function closest() that returns the element that has the value closest to the mean of an array. If there for example two values with the same difference the one that is less should be returned. For example if numbers 4 and 6 have the same difference from the mean then 4 should be returned.
 
+[Here is the Task#1 code in codesculptor. (Note: use Chrome for the link)](http://www.codeskulptor.org/#user39_Tvrwu1KZyn_0.py)
 
 ####Task #4:
 
