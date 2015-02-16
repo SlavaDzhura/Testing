@@ -1,12 +1,12 @@
 # Testing
 My testing tasks (Feb 2015)
 
-Task #1:
+##Task #1:
 
 Change a phone number to an international format.
 Example: number like (012) 535 14 71 should be changed into +38012 535 14 71.
 
-Task #2:
+###Task #2:
 
 Write the function that recursively finds the minimal element of an array.
 
