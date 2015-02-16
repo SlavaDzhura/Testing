@@ -14,7 +14,7 @@ Write the function that recursively finds the minimal element of an array.
 
 ####Task #3:
 
-Write a function that returns the element that has the value closest to the mean of an array. If there for example two values with the same difference that one that less should be returned. For example if numbers 4 and 6 have the same difference from the mean then 4 should be returned.
+Write the function closest() that returns the element that has the value closest to the mean of an array. If there for example two values with the same difference the one that is less should be returned. For example if numbers 4 and 6 have the same difference from the mean then 4 should be returned.
 
 
 ####Task #4:
