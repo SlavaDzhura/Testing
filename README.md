@@ -13,6 +13,8 @@ Example: number like (012) 535 14 71 should be changed into +38012 535 14 71.
 
 Write the function that recursively finds the minimal element of an array.
 
+Note: it seems that recursion doesn't work in codeskulptor.
+
 
 ####Task #3:
 
@@ -24,7 +26,7 @@ Write the function closest() that returns the element that has the value closest
 
 Given two Stack objects s1 and s2 with methods push(), pop(), clear(). Using them create an object Queue q1 with methods add(), pull(), clear(). Note Stack is 'last in first out' data structure and Queque is 'first in first out' data structure.
 
-[Here is the Task#4 code in codesculptor. (Note: use Chrome for the link](http://www.codeskulptor.org/#user39_7cYz3mngzE_0.py)
+[Here is the Task#4 code in codesculptor. (Note: use Chrome for the link)](http://www.codeskulptor.org/#user39_7cYz3mngzE_0.py)
 
 
 Here is my solutions of the tasks in Python.
