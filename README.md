@@ -21,4 +21,4 @@ Write a function that returns the element that has the value closest to the mean
 
 Given two Stack objects s1 and s2 with methods push(), pop(), clear(). Using them create an object Queue q1 with methods add(), pull(), clear(). Note Stack is 'last in first out' data structure and Queque is 'first in first out' data structure.
 
-Here my solutions in Python.
+Here is my solutions of the tasks in Python.
